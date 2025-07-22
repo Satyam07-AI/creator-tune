@@ -1,0 +1,6 @@
+{
+  "name": "CREATOR TUNE",
+  "description": "An AI-powered tool to provide a quick audit of a YouTube channel, offering suggestions for titles, descriptions, content, and more based on its URL.",
+  "prompt": "",
+  "requestFramePermissions": []
+}
